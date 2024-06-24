@@ -5,6 +5,11 @@ No, the row context from the calculated column does not filter the table for `SU
 Also extremely, extremely useful:
 https://www.sqlbi.com/articles/row-context-in-dax/
 
+In particular:
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/9f3498ae-2473-403a-84d1-4884c9c17a68)
+
+
 
 ### Detailed Explanation
 
