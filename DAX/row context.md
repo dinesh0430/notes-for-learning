@@ -2,6 +2,10 @@
 
 No, the row context from the calculated column does not filter the table for `SUMX`'s row context. Instead, they operate independently. The row context created by the calculated column is specific to the current row being processed in the table, while the row context created by `SUMX` iterates over the entire table or the table passed to it.
 
+Also extremely, extremely useful:
+https://www.sqlbi.com/articles/row-context-in-dax/
+
+
 ### Detailed Explanation
 
 Let's clarify this with a step-by-step breakdown:
