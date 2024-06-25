@@ -30,3 +30,6 @@ Additional Filters added as subexpressions and how they evaluate:
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/1b0240ff-dcdd-49a0-8446-04fefaaac31f)
 
+Calculate table:
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/c2c5e086-50d6-465a-9883-ebab3fecb79f)
+
