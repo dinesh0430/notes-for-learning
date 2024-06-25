@@ -24,3 +24,9 @@ Explanation:
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/d693f269-1afb-47e8-aee8-3c8c0c257f42)
 
+
+
+Additional Filters added as subexpressions and how they evaluate:
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/1b0240ff-dcdd-49a0-8446-04fefaaac31f)
+
