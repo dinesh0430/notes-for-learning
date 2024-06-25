@@ -1,6 +1,6 @@
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/5096bea4-13fc-4cc6-8b87-203261226413)
 
-
+### Check "Elements of DAX with Brian Grant" and check out the videos from chapter 6
 
 calculate architecture:
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/cb01f037-60b5-44e5-9704-1c1bf6c0ef9b)
@@ -46,3 +46,7 @@ Row context with calculate and how it is visualized in a nested iterator (averag
 When both "Current row filtering (Context Transition) and override filters" are given to a calculate (take a look at the small grey text at the bottom right for how context transition and override filters interract, basically they both go in at the same time, one shouldn't influence the other)
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/431dfd22-93e4-42d9-88e4-57e78f52e4f5)
+
+
+If there is a clash between reviser's filters then, the inner would block the outer reviser's conflicting reviser and continues
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/8c71e5e0-d959-4976-933c-13c625c172b8)
