@@ -39,3 +39,5 @@ Calculate table:
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/c2c5e086-50d6-465a-9883-ebab3fecb79f)
 
 
+Row context with calculate and how it is visualized in a nested iterator (averageX and sumX):
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/7fdc0b8b-85dd-4e22-86d7-2a0e0ed5ebfd)
