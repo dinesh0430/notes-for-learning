@@ -2,6 +2,11 @@
 
 
 
+calculate architecture:
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/cb01f037-60b5-44e5-9704-1c1bf6c0ef9b)
+
+
+
 Brief look at context transition with calculate, and shows how it won't work if calculate is not present
 
 
@@ -32,4 +37,5 @@ Additional Filters added as subexpressions and how they evaluate:
 
 Calculate table:
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/c2c5e086-50d6-465a-9883-ebab3fecb79f)
+
 
