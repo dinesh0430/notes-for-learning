@@ -19,3 +19,8 @@ Case1:
 Case 2:
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/d8ef3694-f203-4792-aa96-c1f645c32189)
+
+Explanation:
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/d693f269-1afb-47e8-aee8-3c8c0c257f42)
+
