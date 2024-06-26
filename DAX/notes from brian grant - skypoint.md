@@ -60,6 +60,7 @@ If there is a clash between reviser's filters then, the inner would block the ou
 ## SQL BI - KEEPFILTERS, important check on how filters combine, remove, replace and add to the filter context
 
 https://youtu.be/L5WR-imfyYI?feature=shared
+
 https://youtu.be/m820AXmoato?feature=shared
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/a6270858-4638-4546-b18d-55dc6bef361a)
