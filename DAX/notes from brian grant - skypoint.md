@@ -55,3 +55,8 @@ If there is a clash between reviser's filters then, the inner would block the ou
 ## SQL BI - Filter context, the image shows what happens if new filter comes in and clashes with existing filter
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/760bc33b-6b46-43a5-9acc-84e0c24ef44e)
+
+
+## SQL BI - KEEPFILTERS
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/a6270858-4638-4546-b18d-55dc6bef361a)
