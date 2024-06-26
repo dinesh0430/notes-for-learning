@@ -11,3 +11,43 @@ Changing the sale measure by removing the KeepFilter added previously and using 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/d74da0d3-9e9f-42c1-8eca-598a9e511ea0)
 
 
+
+
+## EXAMPLE DAX CODES
+
+
+#### example 
+```
+DEFINE
+    MEASURE 'Artist'[m1] =
+        VAR tbl_Tracks_peak_1 =
+		FILTER(
+			Track,
+			Track[US Billboard Hot 100 peak] = 1
+		)
+		
+		--- OBSERVE: a variable can use Track, the original table, which it was created from 
+		RETURN(CONCATENATEX(tbl_Tracks_peak_1,Track[Track name]," | ")) 
+		
+
+
+
+
+
+EVALUATE
+// {[m1]}
+{
+    CALCULATE (
+        [m1],
+        TREATAS (   ---- TREATAS works as filter context for the execution of the measure
+            {
+                "Bon Jovi"
+            },
+            Artist[Artist]
+        )
+    )
+}
+
+```
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/47b69894-de8d-47c7-935f-8b6daae4930d)
