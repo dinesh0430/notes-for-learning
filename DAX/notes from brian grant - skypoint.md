@@ -50,3 +50,8 @@ When both "Current row filtering (Context Transition) and override filters" are 
 
 If there is a clash between reviser's filters then, the inner would block the outer reviser's conflicting reviser and continues
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/8c71e5e0-d959-4976-933c-13c625c172b8)
+
+
+## SQL BI - Filter context, the image shows what happens if new filter comes in and clashes with existing filter
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/760bc33b-6b46-43a5-9acc-84e0c24ef44e)
