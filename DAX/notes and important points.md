@@ -75,4 +75,11 @@ https://www.sqlbi.com/articles/filter-context-in-dax/
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/0566cf42-807b-456a-96fd-608781008052)
 
+## Expanded tables are very important to understand the concept of Relationships and etc
+
+https://www.sqlbi.com/articles/expanded-tables-in-dax/
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/e067dea9-621e-4c3d-ae55-257c7f274020)
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/940ac999-6402-41cf-9be1-dbd8db321071)
 
