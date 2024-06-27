@@ -86,3 +86,7 @@ https://www.sqlbi.com/articles/expanded-tables-in-dax/
 #### Context Transition and how the row context is transitioned to filter context, if the row has multiple columns
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/dda5afa8-3bf3-4ce2-9bdc-d46ac536bde3)
+
+When we pass a table to a calculate as filter expression, then we are likely passing a large expanded table, which would overwrite many filters
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/109cb871-1954-47c9-91cf-919fecfbf7b3)
