@@ -67,3 +67,11 @@ https://youtu.be/m820AXmoato?feature=shared
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/491a5374-9052-4c62-b3b2-e519e2547e32)
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/7515b537-8421-4a49-ab2a-3bd892a5303c)
+
+
+## FILTER CONTEXT SOME QUICK POINTS
+
+https://www.sqlbi.com/articles/filter-context-in-dax/
+
+![Uploading image.png…]()
+
