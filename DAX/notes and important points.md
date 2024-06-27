@@ -83,3 +83,6 @@ https://www.sqlbi.com/articles/expanded-tables-in-dax/
 
 ![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/940ac999-6402-41cf-9be1-dbd8db321071)
 
+#### Context Transition and how the row context is transitioned to filter context, if the row has multiple columns
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/dda5afa8-3bf3-4ce2-9bdc-d46ac536bde3)
