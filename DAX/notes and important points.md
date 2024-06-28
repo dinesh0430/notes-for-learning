@@ -94,4 +94,8 @@ When we pass a table to a calculate as filter expression, then we are likely pas
 
 Useful concept about Expanded tables
 
-https://www.youtube.com/watch?v=fvm8afdCUC4
+Enterprise DNA - https://www.youtube.com/watch?v=fvm8afdCUC4
+
+Points on Expanded table from Brian Grant
+
+![image](https://github.com/dinesh0430/notes-for-learning/assets/32917000/dbd95505-4925-4585-a3bf-c6465ce8a8b0)
