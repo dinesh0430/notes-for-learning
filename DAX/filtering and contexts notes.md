@@ -22,3 +22,25 @@ We can see that City, Venue and Subgenre didn't have any change in the row count
 their row count, it indicates that the filter propagates as a chain starting from the concerned table and growing to all related ("One to Many") tables 
 and stops if it encounters "Many to One" relationships.
 
+
+#### Table Expansion
+
+We have seen that the Artist table's filter propagates in the direction of "One to Many". 
+
+One thing to note is that Artist table also **doesn't** have any table expansion scope, because it doesn't have any many-to-one relationship.
+
+> Expanded Tables: Expanded tables happen in the direction of many-to-one. This means that when you use a column from a related table on the "many" side within an expression that involves the "one" side table, the "many" side table is logically expanded to include columns from the "one" side table. This allows you to use columns from related tables without explicitly joining them.
+
+Table expansion and the ability to use RELATED() to access the columns from the expanded tables only works when there is any active row context.
+
+Example:
+  - Artist Table:
+    - Filter Propagation (if a filter is put in the filter context): 
+
+      Artist table will go two ways for filter propagation:
+      - Artist -> Album -> Track
+      - Artist -> Tour -> Show
+
+    - Table Expansion (other tables' columns you can use from RELATED() in a row context):
+      - NONE, because Artist doesn't have any many-to-one relationship
+
