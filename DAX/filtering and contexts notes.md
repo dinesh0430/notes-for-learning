@@ -33,6 +33,8 @@ One thing to note is that Artist table also **doesn't** have any table expansion
 
 Table expansion and the ability to use RELATED() to access the columns from the expanded tables only works when there is any active row context.
 
+During context transition, if the row context is iterating over an entire table, then all the columns of the table will be part of the newly-created filter context. Actually, all the columns of the expanded table will be part of the newly-created filter context
+
 Example:
   - Artist Table:
     - Filter Propagation (if a filter is put in the filter context):
@@ -52,3 +54,4 @@ Example:
       - Show -> Venue -> City -> Country -> Continent
       - Show -> Venue -> VenueType -> Venue Category
       - Show -> Tour -> Artist
+
