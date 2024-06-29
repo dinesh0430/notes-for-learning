@@ -35,7 +35,7 @@ Table expansion and the ability to use RELATED() to access the columns from the 
 
 Example:
   - Artist Table:
-    - Filter Propagation (if a filter is put in the filter context): 
+    - Filter Propagation (if a filter is put in the filter context):
 
       Artist table will go two ways for filter propagation:
       - Artist -> Album -> Track
@@ -43,4 +43,12 @@ Example:
 
     - Table Expansion (other tables' columns you can use from RELATED() in a row context):
       - NONE, because Artist doesn't have any many-to-one relationship
-
+  
+  - Show Table:
+    - Filter Propagation (if a filter is put in the filter context): 
+      - NONE, because Show table doesn't have any one-to-many relationship
+    
+    - Table Expansion (other tables' columns you can use from RELATED() in a row context): The expanded table of Show will include all the columns from all the tables mentioned
+      - Show -> Venue -> City -> Country -> Continent
+      - Show -> Venue -> VenueType -> Venue Category
+      - Show -> Tour -> Artist
